@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![preview]()
+![preview](./desktop-preview.png)
 
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/Damjan15/VTube](https://github.com/Damjan15/VTube)
+- Live Site URL: [https://v-tube-tau.vercel.app/](https://v-tube-tau.vercel.app/)
 
 ## My process
 
